@@ -1,0 +1,80 @@
+  
+    
+   /* #rgb(245, 241, 247)*/
+body{
+    background-color: rgb(246, 244, 248);
+}
+  .grid-container{  
+    display: flex;
+    flex-direction: row;
+    border-width: 1px;
+    font-display: bold;
+    text-align: center;
+}
+    button{
+    height: 40px;
+    width: 300px;
+    background-color: rgb(195, 161, 226);
+    padding: 2px;
+    margin: 30px;
+}
+.baby{
+ flex: 2 2 0%;
+ background-color: rgb(250, 245, 245);
+ padding: 50px; 
+}
+
+.header h1{
+text-align: center;
+}
+
+.header h2{
+ text-align: center;
+ padding: 10px;  
+ margin: 5px;
+}
+
+.tonny{
+background-color: rgb(168, 66, 168);
+padding: 50px;
+flex: 2 0 0%;
+border: 1px;
+}
+
+.hero{
+    background-color:rgb(245, 237, 237) ;
+    padding: 50px;
+    flex: 2 2 0%;
+} 
+.hero p{
+    font-size: 90px;
+}
+.tonny p{
+    font-weight: 500px;
+    font-size: 90px;
+}
+ #button1{
+ background-color: antiquewhite;
+}
+.baby p {
+    font-size: 90px;
+}
+.circle-button{
+ width: 20px;
+ height: 20px;
+ border-radius:50%;
+ background-color: #e7edf1;
+ color:white;
+ background-position: 50px;
+ display: flex;
+}
+
+#button2{
+  height: 30px;
+  width: 50px;
+  border-radius: 20px;
+}
+#dollar{
+
+font-size: 60px;
+}

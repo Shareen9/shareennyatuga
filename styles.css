@@ -1,0 +1,77 @@
+/*selectors*/
+/*class selectors*/
+/*id selectors*/
+/*#2bc9d4*/
+
+.Nyatuga h1{
+    color: rgb(140, 225, 240);
+    
+}
+.Nyatuga p1{
+    color: #200202a1;
+}
+.Nyatuga h2{
+    color: rgb(235, 235, 12);
+
+}
+.Nyatuga{
+ background-color: white;
+}
+
+.baby{
+display: flex;
+color: rgb(245, 245, 245);
+background-color:rgb(19, 17, 17);
+flex-direction: column;
+padding: 30px;
+flex:0 2 50%;
+
+ }
+ .hero{  
+display: flex;
+color: rgb(245, 245, 245);
+background-color:rgb(11, 12, 12);
+flex:0 2 50%;
+padding: 30px; 
+}
+
+.grid-container{
+display: flex;
+font-display: bold;
+flex-direction: row;
+border-width: 6px;
+}
+
+button{
+height: 50px;
+ width: 300px;
+padding: 10px;
+color: white;
+align-items: center;
+border-radius: 15px;
+background-color: chartreuse;
+border:none;
+}
+#grid{
+    font-size: 50%;
+}
+
+.Nyatuga{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(68, 67, 67);
+    flex-grow: 20px;
+}
+.Nyatuga p{
+    color: whitesmoke;
+}
+.hero h1{
+    text-align: center;
+}
+body{
+    
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
